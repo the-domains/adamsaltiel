@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: Beneath the line of Check 03
-dateModified: '2016-12-12T15:28:56.663Z'
-datePublished: '2016-12-12T15:28:57.544Z'
+dateModified: '2016-12-12T15:47:57.449Z'
+datePublished: '2016-12-12T15:47:57.940Z'
 title: ''
 author: []
 publisher: {}
@@ -18,6 +18,8 @@ _type: Article
 Beneath the line of Check 03
 
 <div\>Check 03</div\>
+
+But this is rapidly becoming the **Bad Page** again. See below.
 
 I had to delete **the Bad Page **as it was mainly dead. A strange case of semi-consciousness possessed it in an eerie way. Most text would not same. Except for text in the inserted HTML.
 
@@ -54,3 +56,19 @@ I guess "MAKE FULL POST" means that everything on this page will appear as one p
 Copy to new post and formatting is retained. That's something.
 
 Saving to "on its own page" not as a full post.
+
+There are so many things (are they features?) that I don't understand.
+
+If you create a new web site the first page is the first added content.
+
+If it flows over to "it's own page" the whole page is linked at the bottom (the whole post). 
+
+However, it seems that if a new page is created that is set to appear on the homepage and it's own page, that content appears above the first content (it is a later post).
+
+But I'm not building a blog. So what to do.
+
+Now, if I disable the setting to publish to the home page, it nevertheless remains there.
+
+OK, so what if I redesign? It seems odd to have to redesign when there are issues of order. But I can achieve nothing by reordering the pages in the published view. Actually the new order does not save. Is this a bug or intentional, as so often with theGrid it is difficult to tell?
+
+Let's try
