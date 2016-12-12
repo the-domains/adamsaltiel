@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: <div>Check 03</div>
-dateModified: '2016-12-12T16:08:08.082Z'
-datePublished: '2016-12-12T16:08:08.696Z'
+dateModified: '2016-12-12T16:10:53.048Z'
+datePublished: '2016-12-12T16:10:53.531Z'
 title: Beneath the line of Check 03
 author: []
 publisher: {}
@@ -25,7 +25,7 @@ But this is rapidly becoming the **Bad Page** again. See below.
 
 ---
 
-I had to delete **the Bad Page **as it was mainly dead. A strange case of semi-consciousness possessed it in an eerie way. Most text would not same. Except for text in the inserted HTML.
+I had to delete **the Bad Page **as it was mainly dead. A strange case of semi-consciousness possessed it, in an eerie way. Most text would not save. Except for text in the inserted HTML.
 
 But pictures would upload and position, without warning.
 
