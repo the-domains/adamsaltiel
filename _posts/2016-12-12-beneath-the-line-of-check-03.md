@@ -1,9 +1,9 @@
 ---
 inFeed: true
-description: Beneath the line of Check 03
-dateModified: '2016-12-12T15:49:47.041Z'
-datePublished: '2016-12-12T15:49:47.652Z'
-title: ''
+description: <div>Check 03</div>
+dateModified: '2016-12-12T16:00:19.779Z'
+datePublished: '2016-12-12T16:00:20.365Z'
+title: Beneath the line of Check 03
 author: []
 publisher: {}
 via: {}
@@ -15,7 +15,11 @@ url: beneath-the-line-of-check-03/index.html
 _type: Article
 
 ---
-Beneath the line of Check 03
+# **Beneath the line of Check 03**
+
+---
+
+## **The Bad Page**
 
 <div\>Check 03</div\>
 
@@ -61,7 +65,7 @@ There are so many things (are they features?) that I don't understand.
 
 If you create a new web site the first page is the first added content.
 
-If it flows over to "it's own page" the whole page is linked at the bottom (the whole post). 
+If it flows over to "it's own page" the whole page is linked at the bottom (the whole post).
 
 However, it seems that if a new page is created that is set to appear on the homepage and it's own page, that content appears above the first content (it is a later post).
 
@@ -76,3 +80,10 @@ Let's try to save --- no holding of breath please.
 No notification of having saved and then published, why not.
 
 A **Bad, Bad Page.**
+
+But it is working:-
+
+When I say working I can only record what happens.
+
+1. No sign of saving ... saved ... published notifications from the editor.
+2. On losing the editor there is the
