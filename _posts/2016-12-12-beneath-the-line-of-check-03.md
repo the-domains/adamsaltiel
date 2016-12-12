@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: <div>Check 03</div>
-dateModified: '2016-12-12T16:00:19.779Z'
-datePublished: '2016-12-12T16:00:20.365Z'
+dateModified: '2016-12-12T16:02:06.494Z'
+datePublished: '2016-12-12T16:02:07.159Z'
 title: Beneath the line of Check 03
 author: []
 publisher: {}
@@ -86,4 +86,5 @@ But it is working:-
 When I say working I can only record what happens.
 
 1. No sign of saving ... saved ... published notifications from the editor.
-2. On losing the editor there is the
+2. On losing the editor there is the "We are updating your website" notification.
+3. The order I have imposed of first post first now remains, so this is the second page and second piece of content on the homepage.
