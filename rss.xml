@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Adam Saltiel]]></title>
+        <description><![CDATA[Adam Saltiel]]></description>
+        <link>http://www.adamsaltiel.co.uk/</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 12 Dec 2016 12:11:36 GMT</lastBuildDate>
+        <atom:link href="http://www.adamsaltiel.co.uk/rss.xml" rel="self" type="application/rss+xml"/>
+        <pubDate>Mon, 12 Dec 2016 12:11:35 GMT</pubDate>
+        <item>
+            <title><![CDATA[Check 04]]></title>
+            <description><![CDATA[<article><h1>Check 04</h1><h2>Check 05</h2><p>Here I will try some experiments with GSS.</p></article>]]></description>
+            <link>https://the-grid.github.io/ed-userhtml/?g=eJyzScksswvOz01VKEmtKFHIzFMoycgsVgCKKujp6SkklZYoFJdU5qSm2Ct4KiQn5ikkpqRAlGakFqXaKzgBFeTlK5SDeAqpOcWp9jb6ICO5uABuZR3p</link>
+            <guid isPermaLink="false">23e70e49-2761-409a-b2f5-7538b06fcbc6</guid>
+            <pubDate>Mon, 12 Dec 2016 12:11:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJyzScksswvOz01VKEmtKFHIzFMoycgsVgCKKujp6SkklZYoFJdU5qSm2Ct4KiQn5ikkpqRAlGakFqXaKzgBFeTlK5SDeAqpOcWp9jb6ICO5uABuZR3p" height="40"></iframe>]]></description>
+            <link>https://the-grid.github.io/ed-userhtml/?g=eJx9jr0OgzAMhHee4sROkZhTOnQoY6U8gUWMiBQSlFjw-g0_Vdulnk53n-1Txi5tAag0k287di5giGHCQ2tV72ah6h1SP-jTMSVGVeGj_q7n2S6gd5TStVwjzWV2872xeZs9e4lcOeu5bI8_e8IJGw_yBl8MKDIMD1kaWA87zSFK1netL-jCCgkQTgIZSc74hrOYqscmFzjqvQAdXFTg</link>
+            <guid isPermaLink="false">d93253ec-b609-42ee-a7bc-778dc3d73715</guid>
+            <pubDate>Mon, 12 Dec 2016 11:53:39 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
