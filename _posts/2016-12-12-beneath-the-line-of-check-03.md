@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: Beneath the line of Check 03
-dateModified: '2016-12-12T15:48:32.051Z'
-datePublished: '2016-12-12T15:48:32.579Z'
+dateModified: '2016-12-12T15:49:15.481Z'
+datePublished: '2016-12-12T15:49:16.096Z'
 title: ''
 author: []
 publisher: {}
@@ -72,3 +72,7 @@ Now, if I disable the setting to publish to the home page, it nevertheless remai
 OK, so what if I redesign? It seems odd to have to redesign when there are issues of order. But I can achieve nothing by reordering the pages in the published view. Actually the new order does not save. Is this a bug or intentional, as so often with theGrid it is difficult to tell?
 
 Let's try to save --- no holding of breath please.
+
+No notification of having saved and then published, why not.
+
+A **Bad, Bad Page.**
