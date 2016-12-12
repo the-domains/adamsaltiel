@@ -1,0 +1,22 @@
+typography_spectrum: 0.7235737934242934
+color:
+  brandStrength: 0.18714601686224341
+  lightness: 0.2212919988669455
+  saturation: 0.7832379608880728
+  rhythmicContrast: 0.7634542419109493
+  brandColors:
+    - '#450003'
+    - '#5C0002'
+    - '#94090D'
+    - '#D40D12'
+    - '#FF1D23'
+github: true
+layout_spectrum: 0.6833408598322421
+author:
+  name: Adam Saltiel
+  email: adam.saltiel@gmail.com
+  url: adamsaltiel.co.uk
+name: adamsaltiel
+title: Adam Saltiel
+content: []
+description: The Website
