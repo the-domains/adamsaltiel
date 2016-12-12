@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Adam Saltiel]]></title>
+        <description><![CDATA[Adam Saltiel]]></description>
+        <link>http://www.adamsaltiel.co.uk/</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 12 Dec 2016 12:33:42 GMT</lastBuildDate>
+        <atom:link href="http://www.adamsaltiel.co.uk/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Good Page]]></title>
+            <description><![CDATA[<article><h1>The Good Page</h1><h2>Check 05</h2><p>Here I will try some experiments with GSS.</p></article>]]></description>
+            <link>https://the-grid.github.io/ed-userhtml/?g=eJyzScksswvOz01VKEmtKFHIzFMoycgsVgCKKujp6SkklZYoFJdU5qSm2Ct4KiQn5ikkpqRAlGakFqXaKzgBFeTlK5SDeAqpOcWp9jb6ICO5uABuZR3p</link>
+            <guid isPermaLink="false">23e70e49-2761-409a-b2f5-7538b06fcbc6</guid>
+            <pubDate>Mon, 12 Dec 2016 12:33:41 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
