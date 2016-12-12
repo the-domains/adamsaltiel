@@ -1,16 +1,16 @@
 ---
 inFeed: false
 description: Beneath the line of Check 03
-dateModified: '2016-12-12T13:02:01.756Z'
-datePublished: '2016-12-12T13:02:02.202Z'
+dateModified: '2016-12-12T13:03:04.657Z'
+datePublished: '2016-12-12T13:03:05.107Z'
 title: ''
 author: []
 publisher: {}
 via: {}
 hasPage: true
+sourcePath: _posts/2016-12-12-beneath-the-line-of-check-03.md
 starred: false
 datePublishedOriginal: '2016-12-12T13:02:02.202Z'
-sourcePath: _posts/2016-12-12-beneath-the-line-of-check-03.md
 url: beneath-the-line-of-check-03/index.html
 _type: Blurb
 
