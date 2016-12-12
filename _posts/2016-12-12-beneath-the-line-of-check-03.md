@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: <div>Check 03</div>
-dateModified: '2016-12-12T16:11:45.081Z'
-datePublished: '2016-12-12T16:11:45.789Z'
+dateModified: '2016-12-12T17:33:59.084Z'
+datePublished: '2016-12-12T17:33:59.906Z'
 title: Beneath the line of Check 03
 author: []
 publisher: {}
@@ -91,6 +91,6 @@ When I say working I can only record what happens.
 3. The order I have imposed of first post first now remains, so this is the second page and second piece of content on the homepage.
 4. I put in an horizontal rule but it is unclear if this is a signal to make the appearance of this page on the home page sparse, content is broken off just below it and that little arrow pops up again that links to this on it's own page.
 5. So, question, how easy to move between only home page both homepage and own page, own page only and back again? Do I care at the moment?
-6. If I were doing a thorough investigation I think I would.
+  1. If I were doing a thorough investigation I think I would.
 
 Moving on.
