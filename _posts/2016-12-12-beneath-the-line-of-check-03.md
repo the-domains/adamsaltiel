@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: <div>Check 03</div>
-dateModified: '2016-12-12T16:02:06.494Z'
-datePublished: '2016-12-12T16:02:07.159Z'
+dateModified: '2016-12-12T16:08:08.082Z'
+datePublished: '2016-12-12T16:08:08.696Z'
 title: Beneath the line of Check 03
 author: []
 publisher: {}
@@ -17,13 +17,13 @@ _type: Article
 ---
 # **Beneath the line of Check 03**
 
----
-
 ## **The Bad Page**
 
 <div\>Check 03</div\>
 
 But this is rapidly becoming the **Bad Page** again. See below.
+
+---
 
 I had to delete **the Bad Page **as it was mainly dead. A strange case of semi-consciousness possessed it in an eerie way. Most text would not same. Except for text in the inserted HTML.
 
@@ -88,3 +88,8 @@ When I say working I can only record what happens.
 1. No sign of saving ... saved ... published notifications from the editor.
 2. On losing the editor there is the "We are updating your website" notification.
 3. The order I have imposed of first post first now remains, so this is the second page and second piece of content on the homepage.
+4. I put in an horizontal rule but it is unclear if this is a signal to make the appearance of this page on the home page sparse, content is broken off just below it and that little arrow pops up again that links to this on it's own page.
+5. So, question, how easy to move between only home page both homepage and own page, own page only and back again? Do I care at the moment?
+6. If I were doing a thorough investigation I think I would.
+
+Moving on.
