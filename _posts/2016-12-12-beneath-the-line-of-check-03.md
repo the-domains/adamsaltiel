@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: <div>Check 03</div>
-dateModified: '2016-12-12T17:36:18.601Z'
-datePublished: '2016-12-12T17:36:20.054Z'
+dateModified: '2016-12-13T00:34:12.944Z'
+datePublished: '2016-12-13T00:34:13.599Z'
 title: Beneath the line of Check 03
 author: []
 publisher: {}
@@ -98,3 +98,7 @@ Moving on.
 <iframe src="https://the-grid.github.io/ed-userhtml/?g=eJw1j8FSwzAMRO_9ip2eoYFya0xuHBi48gFObGINiuSxlZb-PQ6F287qzb6RC3RGtSvH5_3op6-56CrhflLWchq5Nf0tXxJZ7LMPgWQ-HR_yd78fdoBLx-FdJai4rsWtyX8FqMJSxOQzmWdMZFfoJ15kZi_hgFf7Rxathqx5ZV3rDST5vXxI8wa8NWvQ5Q4XsgSPJVrRrNyGBb5Evw3rORY8PmEhZtr8kvy4EVYPrsvDznXt3eEHs2lU1A" height="244" style=""></iframe>
 
 It's from w3schools and indicates the slow and painful path of development for me?
+
+Inline styles **are** honoured so why not just work with that?
+
+<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJyNkDFPwzAQhXd-xSkdkgjV3tu0C0ICCbEUJsTgxtfEwvEF-1KBEP8dO22jCgRis-675_fuQRVqb3peXwDsBlezIQetctriHSldYAkfEQHU5AJZFJaaIk8INZiuJ88LyOESULDyDbJoPe7K5ahRFj0XkClroSHSIoORfP40u_ae_C9uIwMbPY1r_m162ANHDGHo0xvPAlTydPdFpc0ejF5l0ZSVceizdSXjMDFr3At4tKvjfxkkq1XWMvdhIWVjuB22oqZOPtzcbuaPwUtusfFGz-sQ5NbSVnYqMHppnMY30XJnszEpALl0VfztrPA9Oi6ziDCdfWLHfg4wBtur2EjKtgJN9dDFuXgd0L9v0GLNcTdP-Ok8-nN-rCiJewocxWlJHPh3_axFaylpJtHU0B-2s2npZDcNhOp7dPqqNVYXKYCobbzznjQW7Acsy-UXKcLZVA" height="244" style=""></iframe>
