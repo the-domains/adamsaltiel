@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: <div>Check 03</div>
-dateModified: '2016-12-13T23:35:04.492Z'
-datePublished: '2016-12-13T23:35:04.989Z'
+dateModified: '2016-12-13T23:35:48.872Z'
+datePublished: '2016-12-13T23:35:49.323Z'
 title: Beneath the line of Check 03
 author: []
 publisher: {}
