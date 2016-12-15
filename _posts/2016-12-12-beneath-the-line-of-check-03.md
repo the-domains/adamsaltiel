@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: <div>Check 03</div>
-dateModified: '2016-12-15T23:10:46.568Z'
-datePublished: '2016-12-15T23:10:47.074Z'
+dateModified: '2016-12-15T23:26:26.099Z'
+datePublished: '2016-12-15T23:26:26.558Z'
 title: Beneath the line of Check 03
 author: []
 publisher: {}
@@ -114,5 +114,3 @@ Now, someone, somewhere doesn't update. Does that mean that this page is or is n
 I now have the saved and published notifications again. But my web page is definitely not updated, e.g. with this text.
 
 Here's some scss
-
-<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJwDAAAAAAE" height="844" style=""></iframe>
