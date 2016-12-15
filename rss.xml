@@ -4,9 +4,9 @@
         <description><![CDATA[Adam Saltiel]]></description>
         <link>http://www.adamsaltiel.co.uk/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 15 Dec 2016 23:10:48 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Dec 2016 23:28:07 GMT</lastBuildDate>
         <atom:link href="http://www.adamsaltiel.co.uk/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 15 Dec 2016 23:10:47 GMT</pubDate>
+        <pubDate>Thu, 15 Dec 2016 23:26:26 GMT</pubDate>
         <item>
             <title><![CDATA[The Good Page]]></title>
             <description><![CDATA[<article><h1>The Good Page</h1><h2>Check 05</h2><p>Why is there now the automatic page title “The Grid”?</p></article>]]></description>
@@ -19,7 +19,7 @@
             <description><![CDATA[<article><h1>Beneath the line of Check 03</h1><h2>The Bad Page</h2><p><div>Check 03</div></p></article>]]></description>
             <link>http://www.adamsaltiel.co.uk/beneath-the-line-of-check-03/index.html</link>
             <guid isPermaLink="false">8b5c17fc-50ee-4062-92c4-1f28c2322336</guid>
-            <pubDate>Thu, 15 Dec 2016 23:10:47 GMT</pubDate>
+            <pubDate>Thu, 15 Dec 2016 23:26:26 GMT</pubDate>
         </item>
     </channel>
 </rss>
