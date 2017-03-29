@@ -4,22 +4,24 @@
         <description><![CDATA[Adam Saltiel]]></description>
         <link>http://www.adamsaltiel.co.uk/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 16 Dec 2016 00:05:26 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Mar 2017 00:51:23 GMT</lastBuildDate>
         <atom:link href="http://www.adamsaltiel.co.uk/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 16 Dec 2016 00:05:20 GMT</pubDate>
+        <pubDate>Wed, 29 Mar 2017 00:51:22 GMT</pubDate>
         <item>
             <title><![CDATA[The Good Page]]></title>
-            <description><![CDATA[<article><h1>The Good Page</h1><h2>Check 05</h2><p>Why is there now the automatic page title “The Grid”?</p></article>]]></description>
+            <description><![CDATA[<h1>The Good Page</h1>,<article><h1>The Grid</h1></article>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/39f8b227-1720-4baf-9646-1a02bdb803a6.png">,<p>Why is there now the automatic page title “The Grid”?</p>,<p>Although appropriate, where did that come from?</p>,<p>I lose track.</p>,<h2><a href="http://beneath-the-line-of-check-03/" title="">beneath-the-line-of-check-03</a></h2>,<p>Here I will try some experiments with GSS.</p>,<p>So far so good! Beginning to steam.</p>,<p>Of course some things are unnecessary, such as:-</p>,<p>&lt;style type="text/css"&gt; <a href="html:not(.gss-ready)">html:not(.gss-ready)</a> { opacity: 0; }&lt;/style&gt; &lt;noscript&gt; &lt;style type="text/css"&gt; <a href="html:not(.gss-ready)">html:not(.gss-ready)</a> { opacity: 1; } &lt;/style&gt; &lt;/noscript&gt;</p>,<p><a href="https://this-usr.github.io/thegrid-css/">Square</a></p>,<p>&lt;div&gt;Check 03&lt;/div&gt;</p>,<p>Without div tag</p>,<h1>Check 04</h1>,<h2>Check 05</h2>,<h3>Check 06</h3>,<p>Check 07</p>,<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJyzScksswvOz01VKEmtKFHIzFMoycgsVgCKKujp6SkklZYoFJdU5qSm2Ct4KiQn5ikkpqRAlGakFqXaKzgBFeTlK5SDeAqpOcWp9jb6ICO5uABuZR3p" height="244"></iframe>,<p>Let’s see if links work here?
+
+&lt;div&gt;Check 03&lt;/div&gt;</p>,<p>I had to delete <strong>the Bad Page </strong>as it was mainly dead. A strange case of semi-consciousness possessed it in an eerie way. Most text would not same. Except for text in the inserted HTML.</p>,<p>But pictures would upload and position, without warning.</p>,<p>Also it would unpublish, and republish, but without any of the changes apart from those mentioned.</p>,<p>A half life, no really less than a half life.</p>,<p>But, seriously, how can anyone do web development like this?</p>,<p>The experiment proceeds. More latter.</p>,<p>OK.</p>,<p>So,</p>,<ol><li>Changes do not appear immediately, they appear after an unpredictably long period whether or not CDN caching is enabled.<ol><li>This is not helpful.</li><li>There are too many unpredictable oddities. I can increase the indent of an ordered list with a sub-list. OK. But reverse out?</li><li>This is too trivial to really be worrying about.<ol><li>With a bit of messing about this can be navigated, so saves a bit of coding?</li></ol></li></ol></li><li>OK repeat return. So a tip, heaven help us!</li><li>Back to business.<ol><li>What is the purpose of this website builder?</li><li>There should be means to override the automated processes, any developer would want to be able to do that.</li><li>But I can’t really find how to.</li></ol></li><li>Let me ask and see what I get by way of reply.I should add that any serious developer would put this site builder through its paces before using it, making the sorts of tests I’m making, although with greater rigour.</li></ol>,<p>What is the difference between “on it’s own page” and “MAKE FULL POST”, which I notice is not reversible?</p>,<p>I guess “MAKE FULL POST” means that everything on this page will appear as one post, wherever it is positioned?</p>]]></description>
             <link>https://the-grid.github.io/ed-userhtml/?g=eJyzScksswvOz01VKEmtKFHIzFMoycgsVgCKKujp6SkklZYoFJdU5qSm2Ct4KiQn5ikkpqRAlGakFqXaKzgBFeTlK5SDeAqpOcWp9jb6ICO5uABuZR3p</link>
             <guid isPermaLink="false">23e70e49-2761-409a-b2f5-7538b06fcbc6</guid>
-            <pubDate>Mon, 12 Dec 2016 15:49:47 GMT</pubDate>
+            <pubDate>Mon, 12 Dec 2016 12:33:41 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Beneath the line of Check 03]]></title>
-            <description><![CDATA[<article><h1>Beneath the line of Check 03</h1><h2>The Bad Page</h2><p><div>Check 03</div></p></article>]]></description>
+            <description><![CDATA[<h1><strong>Beneath the line of Check 03</strong></h1>,<h2><strong>The Bad Page</strong></h2>,<p>&lt;div&gt;Check 03&lt;/div&gt;</p>,<p>But this is rapidly becoming the <strong>Bad Page</strong> again. See below.</p>]]></description>
             <link>http://www.adamsaltiel.co.uk/beneath-the-line-of-check-03/index.html</link>
             <guid isPermaLink="false">8b5c17fc-50ee-4062-92c4-1f28c2322336</guid>
-            <pubDate>Fri, 16 Dec 2016 00:05:19 GMT</pubDate>
+            <pubDate>Mon, 12 Dec 2016 13:11:39 GMT</pubDate>
         </item>
     </channel>
 </rss>
