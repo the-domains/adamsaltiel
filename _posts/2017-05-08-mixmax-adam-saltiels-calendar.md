@@ -12,13 +12,13 @@ description: ''
 app_links: []
 isBasedOnUrl: 'https://cal.mixmax.com/adamsaltiel-433'
 title: Mixmax · Adam Saltiel's calendar
-datePublished: '2017-05-08T21:30:35.254Z'
-dateModified: '2017-05-08T21:30:31.998Z'
-datePublishedOriginal: '2017-05-08T21:30:35.254Z'
+datePublished: '2017-05-08T21:30:46.496Z'
+dateModified: '2017-05-08T21:30:45.822Z'
 via: {}
 inFeed: true
-starred: false
 sourcePath: _posts/2017-05-08-mixmax-adam-saltiels-calendar.md
+starred: false
+datePublishedOriginal: '2017-05-08T21:30:35.254Z'
 _context: 'http://schema.org'
 _type: MediaObject
 
