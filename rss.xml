@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Adam Saltiel]]></title>
+        <description><![CDATA[Adam Saltiel]]></description>
+        <link>http://www.adamsaltiel.co.uk/</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 08 May 2017 21:30:37 GMT</lastBuildDate>
+        <atom:link href="http://www.adamsaltiel.co.uk/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Mixmax · Adam Saltiel's calendar]]></title>
+            <description><![CDATA[<article><h1>Mixmax &middot; Adam Saltiel&apos;s calendar</h1><img src="https://lh5.googleusercontent.com/-_woV9mdWDJ8/AAAAAAAAAAI/AAAAAAAAAAA/AHalGhqzRT8CGSdV5prwVC0biro-XE-RHw/s96-c/photo.jpg"></article>]]></description>
+            <link>https://cal.mixmax.com/adamsaltiel-433</link>
+            <guid isPermaLink="false">ea24add4-59e1-48be-8a24-1d7f0cd1da2e</guid>
+            <pubDate>Mon, 08 May 2017 21:30:35 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
